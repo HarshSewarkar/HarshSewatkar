@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 🎓 B.Tech – Computer Science  
-📊 PG Master Diploma in Data Science (Pursuing)  
+📊 Diploma in Data Science (Pursuing)  
 📍 Bhopal, India  
 
 I am a passionate Data Science fresher with strong hands-on experience in Python, Machine Learning, Data Analysis, and NLP.  
